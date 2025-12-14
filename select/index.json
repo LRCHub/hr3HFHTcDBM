@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "シェキラ☆☆☆",
+  "base_artist": "Liella!",
+  "createdAt": "2025-12-14T06:49:07.723301Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シェキラ!",
+      "artist": "Selena Gomez",
+      "has_synced": true,
+      "path": "select/01_シェキラ!_Selena_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シェキラ☆☆☆",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/02_シェキラ☆☆☆_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ワイキキ・チェキラ・シェキラ・ビーチ",
+      "artist": "山根万理奈",
+      "has_synced": false,
+      "path": "select/03_ワイキキ・チェキラ・シェキラ・ビーチ_山根万理奈.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シェキラ☆☆☆",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/pl_01_シェキラ☆☆☆_Liella!.txt"
+    }
+  ]
+}
